@@ -13,7 +13,7 @@ Ce dossier contient le frontend de l'application de gestion des projets. Le fron
 1. Clonez le repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   https://github.com/DarkZangetsu/Task_manager_Frontend_Vuejs.git
 
 2.Naviguez dans le dossier du frontend :
 
